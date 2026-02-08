@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sayyed Taimoor</h1>
 <h3 align="center">Full-Stack Java Developer | Spring & Spring Boot | Backend Enthusiast Focused on clean architecture, robust APIs, and high-performance backend systems | Exploring AI and modern technologies.</h3>
 
+
+
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
