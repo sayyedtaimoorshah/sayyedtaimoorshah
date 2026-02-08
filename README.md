@@ -44,3 +44,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayyedtaimoorshah&show_icons=true&locale=en" alt="sayyedtaimoorshah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayyedtaimoorshah&" alt="sayyedtaimoorshah" /></p>
+
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
