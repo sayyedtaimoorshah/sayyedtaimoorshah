@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sayyed Taimoor</h1>
 <h3 align="center">Full-Stack Java Developer | Spring & Spring Boot | Backend Enthusiast Focused on clean architecture, robust APIs, and high-performance backend systems | Exploring AI and modern technologies.</h3>
 
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayyedtaimoorshah&label=Profile%20views&color=0e75b6&style=flat" alt="sayyedtaimoorshah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayyedtaimoorshah" alt="sayyedtaimoorshah" /></a> </p>
