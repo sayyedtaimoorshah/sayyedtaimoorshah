@@ -34,19 +34,19 @@ src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+         alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+         alt="javascript" width="40" height="40"/>
+   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+         alt="tailwindcss" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-</p>
-
-### 🎨 Frontend
-<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+         alt="nodejs" width="40" height="40"/>
 </p>
 
-### ⚙️ Backend & Frameworks
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
-</p>
