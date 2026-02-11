@@ -47,9 +47,11 @@ src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-         alt="nodejs" width="40" height="40"/>
+         alt="nodejs" width="40" height="40"/> <br>
 </p>
 
 <p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayyedtaimoorshah&" alt="sayyedtaimoorshah" /></p>
+  <center>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayyedtaimoorshah&" alt="sayyedtaimoorshah" /></p>
+  </center>
 </p>
