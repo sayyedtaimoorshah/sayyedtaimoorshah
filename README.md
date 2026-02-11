@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayyed Taimoor</h1>
 
 <h3 align="center">
-focus on clean architecture, robust APIs, and high-performance backend systems.
+Backend-Focused Full-Stack Developer | Designing Scalable Systems with Clean Architecture
 </h3>
 
 <img align="right" height="300" width="500"
