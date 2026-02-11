@@ -50,8 +50,23 @@ src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3
          alt="nodejs" width="40" height="40"/> <br>
 </p>
 
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <center>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayyedtaimoorshah&" alt="sayyedtaimoorshah" /></p>
-  </center>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sayyedtaimoorshah" alt="sayyedtaimoorshah" />
 </p>
+
+---
+
+## 🎯 Current Focus
+
+- Building scalable backend systems  
+- Improving system design knowledge  
+- Integrating AI into production-ready applications  
+- Contributing to meaningful open-source projects  
+
+---
+
+⭐️ *Always open to collaboration and building impactful software.*
