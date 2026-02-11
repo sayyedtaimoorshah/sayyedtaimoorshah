@@ -50,3 +50,6 @@ src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3
          alt="nodejs" width="40" height="40"/>
 </p>
 
+<p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayyedtaimoorshah&" alt="sayyedtaimoorshah" /></p>
+</p>
